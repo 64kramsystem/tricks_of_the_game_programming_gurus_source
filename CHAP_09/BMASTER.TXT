@@ -1,0 +1,2 @@
+Note: BLASTER Master 6.0, which is used in this chapter,
+is in the \GURU\BMASTER subdirectory
